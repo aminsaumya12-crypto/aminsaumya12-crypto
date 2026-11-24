@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**aminsaumya12-crypto/aminsaumya12-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Saumya Amin 👋
 
-Here are some ideas to get you started:
+### Computer Engineering Student | Aspiring AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student passionate about software development, problem-solving, and Artificial Intelligence.
+
+- 🎓 Pursuing Computer Engineering at LJ University
+- 💻 Learning Data Structures and Algorithms
+- 🐍 Exploring Python and AI/ML
+- ☕ Building projects using Java
+- 🚀 Continuously learning and building practical projects
+
+### 🛠️ Technologies & Skills
+
+- **Languages:** Java, Python
+- **Database:** SQL
+- **Core Concepts:** OOP, Data Structures
+- **Tools:** Git, GitHub, VS Code
+
+### 📂 Featured Projects
+
+- **Bull Bear** – Java-based share market simulator.
+- **Applicant Tracking System** – Java-based recruitment management project.
+
+### 🎯 Current Goal
+
+Building strong programming fundamentals and developing practical skills in AI/ML.
+
+### 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/saumya-amin/)
+- [GitHub](https://github.com/aminsaumya12-crypto)
